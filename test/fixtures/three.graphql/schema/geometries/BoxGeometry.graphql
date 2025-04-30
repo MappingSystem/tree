@@ -1,7 +1,0 @@
-type BoxGeometry {
-  id: String
-  name: String
-  depth: Float
-  width: Float
-  height: Float
-}

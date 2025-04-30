@@ -1,3 +1,0 @@
-type Matrix4 {
-  elements: [Float]
-}
